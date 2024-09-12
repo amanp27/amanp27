@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Aman Prajapati this side!
+
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about ML, DL, Python
+- 📫 How to reach me: amanprajapati22@gmail.com
+- 😄
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **amanp27/amanp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
