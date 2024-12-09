@@ -16,8 +16,8 @@
 ## 🧠 What I'm Working On
 
 - 🔭 I’m currently working on **🔍 Exploring datasets for case studies and applying machine learning models to solve real-world problems.**
-- 🌱 I’m currently learning **📂 Building an interactive GitHub repository documenting my progress in machine learning.**
-- 💬 Ask me about **Python, SQL, and statistical analysis for data science and data analysis.**
+- **📈 Documenting everything I learn to help others in the community!**
+- 💬 Ask me about **Python, SQL, feature engineering and statistical analysis for data science and data analysis.**
 - 📫 How to reach me **amanprajapati22@gmail.com**
 - ⚡ Fun fact **I have more datasets on my laptop than photos!**
 
