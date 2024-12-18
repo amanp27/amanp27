@@ -29,8 +29,8 @@
 * **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 * **Frameworks**: Flask for basic NLP
 ### 🛠️ Other Skills
-* Data Visualization: Power BI, Matplotlib
-* NLP Techniques: Sentiment Analysis, Text Preprocessing
+* **Data Visualization**: Power BI, Matplotlib
+* **NLP Techniques**: Sentiment Analysis, Text Preprocessing
 
 ## 🎯 Goals
 * 🌐 Contribute to open-source projects and collaborate with the data science community.
