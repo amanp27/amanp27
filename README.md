@@ -24,10 +24,10 @@
 ## 🚀 Skills & Tools
 ### 📊 Data Science Skills
 
-* Languages: Python, SQL
-* Machine Learning: Regression, Classification, Clustering, PCA, Optimization
-* Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-* Frameworks: Flask for basic NLP
+* **Languages**: Python, SQL
+* **Machine Learning**: Regression, Classification, Clustering, PCA, Optimization
+* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+* **Frameworks**: Flask for basic NLP
 ### 🛠️ Other Skills
 * Data Visualization: Power BI, Matplotlib
 * NLP Techniques: Sentiment Analysis, Text Preprocessing
