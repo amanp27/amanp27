@@ -11,7 +11,7 @@
 * Skilled in Data Analysis, Machine Learning and Deep Learning Algorithms.
 * Learning MLOPS and Deep Learning Algorithms for Generative AI to expand my expertise
 * Awarded Best Executive of the Year and Mr. Hexaware during my tenure in the co-orporate world.
-* Based in Nagpur, India.
+* Based in Nagpur, Maharashtra.
 
 #### What I Do
 * **Data Analysis**: SQL queries, data visualization, and storytelling using Power BI & Tableau.
