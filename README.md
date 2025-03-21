@@ -14,11 +14,8 @@
 * Based in Nagpur, Maharashtra.
 
 #### What I Do
-* **Data Analysis**: SQL queries, data visualization, and storytelling using Power BI & Tableau.
-* **Data Science**: Machine learning, feature engineering, model evaluation.
-* **Data Wrangling**: Cleaning & transforming datasets using Pandas, NumPy, Power Query.
-* **Advanced Analytics**: Forecasting, clustering, regression, classification models.
-* **Dashboarding**: Creating interactive dashboards with Power BI & Excel.
+* I continuously upskill and adapt to the evolving field of data science by working on hands-on projects
+* As a self-learner, I actively engage in building impactful data solutions, optimizing analytical workflows, and leveraging advanced techniques
 
 #### 🚀 Skills & Tools
 ##### 📊 Technical Skills
