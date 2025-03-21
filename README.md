@@ -1,40 +1,37 @@
-<h1 align="center">Hi there👋, I'm Aman Prajapati - Aspiring Data Scientist and Analyst🚀</h1>
-<h3 align="center">A passionate Data Scientist on a journey to master Machine Learning, Deep Learning and AI with a strong foundation in Python, Statistics, SQL, Linear Algebra and Machine Learning, I aim to build meaningful solutions that drive impactful decisions.</h3>
+<h1 align="center">Hi there👋, I'm Aman Prajapati</h1>
+<h4 align="left">I'm a Data Data Scientist & Analyst passionate about transforming raw data into meaningful insights. With a strong foundation in Python, SQL, Power BI, Machine Learning, Deep Learning and Statistics, I specialize in data cleaning, exploratory data analysis (EDA), and predictive modeling. I aim to build meaningful solutions that drive impactful decisions.</h4>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanp27&label=Profile%20views&color=0e75b6&style=flat" alt="amanp27" /> </p>
 
-## ✨ About Me
-* 🎓 Data Science Certified from the Boston Institute of Analytics.
-* 🔍 Passionate about Data cleaning, EDA, and Predictive modeling.
-* 📊 Skilled in Linear Regression, Gradient Descent, PCA, KNN, and more.
-* 📘 Learning Advanced Machine Learning and Deep Learning Algorithms for Generative AI to expand my expertise
-* 🏆 Awarded Best Executive of the Year and Mr. Hexaware during my tenure in the corporate world.
-* 📌 Based in Nagpur, India.
+#### ✨ About Me
+* Data Science and Analyst Certified from the Boston Institute of Analytics.
+* Passionate about Data cleaning, EDA, and Predictive modeling.
+* Skilled in Data Analysis, Machine Learning and Deep Learning Algorithms.
+* Learning MLOPS and Deep Learning Algorithms for Generative AI to expand my expertise
+* Awarded Best Executive of the Year and Mr. Hexaware during my tenure in the co-orporate world.
+* Based in Nagpur, India.
 
-## 🧠 What I'm Working On
+#### What I Do
+* **Data Analysis**: SQL queries, data visualization, and storytelling using Power BI & Tableau.
+* **Data Science**: Machine learning, feature engineering, model evaluation.
+* **Data Wrangling**: Cleaning & transforming datasets using Pandas, NumPy, Power Query.
+* **Advanced Analytics**: Forecasting, clustering, regression, classification models.
+* **Dashboarding**: Creating interactive dashboards with Power BI & Excel.
 
-- 🔭 I’m currently working on **🔍 Exploring datasets for case studies and applying machine learning models to solve real-world problems.**
-- **📈 Documenting everything I learn to help others in the community!**
-- 💬 Ask me about **Python, SQL, feature engineering and statistical analysis for data science and data analysis.**
-- 📫 How to reach me **amanprajapati22@gmail.com**
-- ⚡ Fun fact **I have more datasets on my laptop than photos!**
-
-## 🚀 Skills & Tools
-### 📊 Data Science Skills
+#### 🚀 Skills & Tools
+##### 📊 Technical Skills
 
 * **Languages**: Python, SQL
-* **Machine Learning**: Regression, Classification, Clustering, PCA, Optimization
-* **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-* **Frameworks**: Flask for basic NLP
-### 🛠️ Other Skills
-* **Data Visualization**: Power BI, Matplotlib
+* **Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotib, Seaborn
+* **Data Analysis**: Data Cleaning, Data Scraping, Exploratory Data Analysis(EDA), Feature Engineering
+* **Machine Learning**: Regression, Classification, Clustering
+* **Tools**: Power BI, Excel, Power Point, Tableau
 * **NLP Techniques**: Sentiment Analysis, Text Preprocessing
 
 ## 🎯 Goals
-* 🌐 Contribute to open-source projects and collaborate with the data science community.
-* 🏆 Participate in offline hackathons to showcase my problem-solving skills.
+* 🌐 Contribute to open-source projects and collaborate with the data science & analyst community.
 * 💡 Build innovative machine learning models that solve real-world problems.
 
 <h3 align="left">Connect with me:</h3>
