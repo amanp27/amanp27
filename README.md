@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Aman Prajapati</h1>
-<h4 align="left">I'm a Data Data Scientist & Analyst passionate about transforming raw data into meaningful insights. With a strong foundation in Python, SQL, Power BI, Machine Learning, Deep Learning and Statistics, I specialize in data cleaning, exploratory data analysis (EDA), and predictive modeling. I aim to build meaningful solutions that drive impactful decisions.</h4>
+<h4 align="left">I'm a Data Data Scientist & Analyst passionate about transforming raw data into meaningful insights. With a strong foundation in Python, SQL, Power BI, Excel, Machine Learning, Deep Learning and Statistics, I specialize in data cleaning, exploratory data analysis (EDA), and predictive modeling. I aim to build meaningful solutions that drive impactful decisions.</h4>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
