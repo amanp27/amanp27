@@ -15,7 +15,6 @@
 
 #### What I Do
 * I continuously upskill and adapt to the evolving field of data science by working on hands-on projects
-* As a self-learner, I actively engage in building impactful data solutions, optimizing analytical workflows, and leveraging advanced techniques
 
 #### 🚀 Skills & Tools
 ##### 📊 Technical Skills
