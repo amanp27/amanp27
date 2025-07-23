@@ -7,10 +7,11 @@ I’m deeply intrigued by the world of Data Science and Artificial Intelligence.
 ---
 ## 💼 What I Do
 
-- 🔎 **Data Science & ML** — EDA, preprocessing, model building, tunning and evaluation.
-- ⚙️ **MLOps** — Docker, FastAPI, CI/CD, model deployment and monitoring with Grafana, Kubernetes orchestration, and model registry..
-- 🤖 **AI Projects** — NLP, computer vision, GenAI apps using LLMs.
-- 🌱 **Learning** — Scalable ML systems and GenAI(LangChain and LangGraph).
+- **Language** — Python(OOPs) and SQL
+- **Data Science & ML** — EDA, preprocessing, model building, tunning and evaluation.
+- **MLOps** — Docker, FastAPI, CI/CD, model deployment and monitoring with Grafana, Kubernetes orchestration, and model registry..
+- **AI Projects** — NLP, computer vision, GenAI apps using LLMs.
+- **Learning** — Scalable ML systems and GenAI(LangChain and LangGraph).
 
 ---
 
