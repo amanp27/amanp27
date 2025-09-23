@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Aman Prajapati
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanp27&label=Profile%20views&color=0e75b6&style=flat" alt="amanp27" /> </p>
 
 I’m deeply intrigued by the world of Data Science and Artificial Intelligence. With hands-on experience in building end-to-end ML and AI projects, I enjoy turning data into impactful solutions. I’m continuously learning and currently expanding my knowledge in MLOps, Large Language Models (LLMs), and Generative AI.
 
