@@ -69,3 +69,7 @@ I’m deeply intrigued by the world of Data Science and Artificial Intelligence.
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/amanp27/amanp27/output/snake.svg" alt="Snake animation" />
+
+###
