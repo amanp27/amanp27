@@ -67,9 +67,3 @@ I’m deeply intrigued by the world of Data Science and Artificial Intelligence.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/amanp27/amanp27/output/snake.svg" alt="Snake animation" />
-
-###
