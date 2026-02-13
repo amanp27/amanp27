@@ -7,7 +7,9 @@
 # 👋 Hi, I'm Aman Prajapati
 
 
-I'm an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. My work spans across deep learning, computer vision, natural language processing, and MLOps. I believe in the power of open-source and continuously contribute to the AI community.
+I’m an AI/ML Engineer working on applied AI systems for real-world products, including LLM-based pipelines, RAG systems, and large-scale classification workflows.
+My work focuses on building end-to-end solutions — from data ingestion and model integration to backend APIs, evaluation, and deployment.
+I have hands-on experience with multi-lingual text data, vector databases, and productionizing AI features used by real users in a startup environment.
 
 ---
 # 💫 About Me:
