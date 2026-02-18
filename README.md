@@ -13,7 +13,7 @@ I have hands-on experience with multi-lingual text data, vector databases, and p
 
 ---
 # 💫 About Me:
-🔭 Currently working on Large Language Models and Multi-modal Agentic AI Systems<br>🌱 Exploring Reinforcement Learning, LLMOps and XAI<br>👯 Open to collaborate on AI Research and ML Engineering Projects<br>💬 Ask me about PyTorch, TensorFlow, MLOps, and Model Optimization<br>📫 Reach me at: amanprajapati22@gmail.com<br>⚡ Fun fact: ChatGPT helps me to create more bug in a working code in name of optimization
+🔭 Currently working on Large Language Models and Multi-modal Agentic AI Systems<br>🌱 Exploring Reinforcement Learning, LLMOps and XAI<br>👯 Open to collaborate on AI Research and ML Engineering Projects<br>💬 Ask me about Agent AI, API's, LLMOps, Prompt Optimization and anything related to the full stack AI<br>📫 Reach me at: amanprajapati22@gmail.com<br>⚡ Fun fact: ChatGPT helps me to create more bug in a working code in name of optimization
 
 
 ## 🌐 Socials:
