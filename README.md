@@ -7,9 +7,11 @@
 # 👋 Hi, I'm Aman Prajapati
 
 
-I’m an AI/ML Engineer working on applied AI systems for real-world products, including LLM-based pipelines, RAG systems, and large-scale classification workflows.
-My work focuses on building end-to-end solutions — from data ingestion and model integration to backend APIs, evaluation, and deployment.
-I have hands-on experience with multi-lingual text data, vector databases, and productionizing AI features used by real users in a startup environment.
+I’m an AI/ML Engineer building applied AI systems for real-world products. My work focuses on developing scalable LLM-powered pipelines, RAG systems, and large-scale classification engines used in production environments.
+
+I specialize in designing end-to-end AI systems — from data ingestion and model orchestration to backend API development, evaluation frameworks, and deployment. My experience includes working with multi-lingual text data, vector databases, and optimizing LLM pipelines for accuracy, performance, and reliability.
+
+Currently, I build and productionize AI features used by real users in a startup environment.
 
 ---
 # 💫 About Me:
