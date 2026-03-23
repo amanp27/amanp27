@@ -4,7 +4,7 @@
 
 ###
 
-# 👋 Hi, I'm Aman Prajapati
+# 👋 Hi, I'm Aman Prajapati.....
 
 
 I’m an AI/ML Engineer building applied AI systems for real-world products. My work focuses on developing scalable LLM-powered pipelines, RAG systems, and large-scale classification engines used in production environments.
