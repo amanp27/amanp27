@@ -8,6 +8,10 @@
 
 
 I’m an AI/ML Engineer building applied AI systems for real-world products. My work focuses on developing scalable LLM-powered pipelines, RAG systems, and large-scale classification engines used in production environments.
+Bhai Padhai Krne hi nhi mill rha
+mein kya kru 
+meri galti nhi hai
+kl se pakka krunga
 
 I specialize in designing end-to-end AI systems — from data ingestion and model orchestration to backend API development, evaluation frameworks, and deployment. My experience includes working with multi-lingual text data, vector databases, and optimizing LLM pipelines for accuracy, performance, and reliability.
 
