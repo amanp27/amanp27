@@ -9,10 +9,6 @@
 
 I’m an AI/ML Engineer building applied AI systems for real-world products. My work focuses on developing scalable LLM-powered pipelines, RAG systems, and large-scale classification engines used in production environments.
 
-- Change ho
-- Merko Activity show krwaani hai
-- Kal wapas se thik ho jaana
-
 I specialize in designing end-to-end AI systems — from data ingestion and model orchestration to backend API development, evaluation frameworks, and deployment. My experience includes working with multi-lingual text data, vector databases, and optimizing LLM pipelines for accuracy, performance, and reliability.
 
 Currently, I build and productionize AI features used by real users in a startup environment.
