@@ -11,13 +11,6 @@ I’m an AI/ML Engineer building applied AI systems for real-world products. My 
 
 I specialize in designing end-to-end AI systems — from data ingestion and model orchestration to backend API development, evaluation frameworks, and deployment. My experience includes working with multi-lingual text data, vector databases, and optimizing LLM pipelines for accuracy, performance, and reliability.
 
-- bs this is the last time
-- I am doing this
-- I am sorry
-- kl se padhunga
-- aur acche se padhunga qki
-- tution bhi start krni hai
-
 Currently, I build and productionize AI features used by real users in a startup environment.
 
 ---
