@@ -17,11 +17,6 @@ Currently, I build and productionize AI features used by real users in a startup
 # 💫 About Me:
 🔭 Currently working on Large Language Models and Multi-modal Agentic AI Systems<br>🌱 Exploring Reinforcement Learning, LLMOps and XAI<br>👯 Open to collaborate on AI Research and ML Engineering Projects<br>💬 Ask me about Agent AI, API's, LLMOps, Prompt Optimization and anything related to the full stack AI<br>📫 Reach me at: amanprajapati22@gmail.com<br>⚡ Fun fact: ChatGPT helps me to create more bug in a working code in name of optimization.
 
-- Support bot ka development krna hai
-- Aaj bhi yeh second hand trick use kr rha hu
-- bs bhai, padhai chalu abh
-- qki important platform banna hai
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_prajapati27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-prajapati-16395b1b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanprajapati22@gmail.com) 
