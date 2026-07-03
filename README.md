@@ -91,54 +91,19 @@ Currently, I'm building production AI solutions used by real users in a startup 
 
 # 🛠 Tech Stack
 
-## Languages
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,bash"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
+<img src="https://skillicons.dev/icons?i=python,sql"/>
 <p>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
 </p>
-
----
-
-## Backend
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=fastapi"/>
-
 </p>
-
----
-
-## Databases
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-
 </p>
----
-
-## DevOps & Infrastructure
-
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,grafana"/>
-
 </p>
-
----
 
 # 📌 Featured Expertise
 
@@ -154,18 +119,6 @@ Currently, I'm building production AI solutions used by real users in a startup 
 - 🟢 Semantic Search
 
 ---
-
-# 💬 Let's Connect
-
-I'm always happy to discuss:
-
-- AI Engineering
-- LLM Applications
-- RAG Systems
-- Production AI
-- Backend Development
-- Open Source
-- Research Collaboration
 
 📧 **amanprajapati22@gmail.com**
 
