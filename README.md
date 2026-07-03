@@ -109,12 +109,6 @@ Currently, I'm building production AI solutions used by real users in a startup 
 
 </p>
 
-- Transformers
-- Hugging Face
-- OpenCV
-- NumPy
-- Pandas
-
 ---
 
 ## Backend
@@ -125,10 +119,6 @@ Currently, I'm building production AI solutions used by real users in a startup 
 
 </p>
 
-- REST APIs
-- SQLAlchemy
-- Async Python
-
 ---
 
 ## Databases
@@ -138,9 +128,6 @@ Currently, I'm building production AI solutions used by real users in a startup 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
 
 </p>
-
-- pgvector
-
 ---
 
 ## DevOps & Infrastructure
