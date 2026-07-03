@@ -199,16 +199,6 @@ Currently, I'm building production AI solutions used by real users in a startup 
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
 # 💬 Let's Connect
 
 I'm always happy to discuss:
