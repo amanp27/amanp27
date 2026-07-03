@@ -1,77 +1,228 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=AMAN%20PRAJAPATI&fontColor=ffffff&fontAlign=50&fontSize=48&animation=fadeIn" />
+
+# AI/ML Engineer • LLM Engineer • Backend AI Developer
+
+Building production-ready AI systems powered by Large Language Models, Retrieval-Augmented Generation (RAG), and scalable backend architectures.
+
+<p>
+<a href="mailto:amanprajapati22@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aman-prajapati-16395b1b6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 </div>
-
-###
-
-# 👋 Hi, I'm Aman Prajapati.
-
-
-I’m an AI/ML Engineer building applied AI systems for real-world products. My work focuses on developing scalable LLM-powered pipelines, RAG systems, and large-scale classification engines used in production environments.
-
-I specialize in designing end-to-end AI systems — from data ingestion and model orchestration to backend API development, evaluation frameworks, and deployment. My experience includes working with multi-lingual text data, vector databases, and optimizing LLM pipelines for accuracy, performance, and reliability.
-
-Currently, I build and productionize AI features used by real users in a startup environment.
 
 ---
-# 💫 About Me:
-🔭 Currently working on Large Language Models and Multi-modal Agentic AI Systems<br>🌱 Exploring Reinforcement Learning, LLMOps and XAI<br>👯 Open to collaborate on AI Research and ML Engineering Projects<br>💬 Ask me about Agent AI, API's, LLMOps, Prompt Optimization and anything related to the full stack AI<br>📫 Reach me at: amanprajapati22@gmail.com<br>⚡ Fun fact: ChatGPT helps me to create more bug in a working code in name of optimization.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_prajapati27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-prajapati-16395b1b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanprajapati22@gmail.com) 
+# 👋 About Me
 
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+I'm an **AI/ML Engineer** passionate about building intelligent software that solves real-world business problems.
 
-###
+My work revolves around designing, developing and deploying **LLM-powered applications**, building scalable **Retrieval-Augmented Generation (RAG)** pipelines, creating AI backend services, and optimizing production inference systems.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy working across the entire AI stack—from data ingestion and embedding pipelines to backend APIs, vector databases, evaluation, deployment, and monitoring.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently, I'm building production AI solutions used by real users in a startup environment.
+
+---
+
+# 🚀 What I'm Working On
+
+- 🤖 Production-grade LLM Applications
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Agentic AI Systems
+- ⚡ FastAPI Backend Development
+- 🔍 Prompt Engineering & LLM Optimization
+- 📦 PostgreSQL + pgvector
+- 🐳 Dockerized AI Services
+- ☁️ AI Deployment & Infrastructure
+
+---
+
+# 💼 Experience Highlights
+
+✔ Built production-ready RAG chatbot pipelines
+
+✔ Designed REST APIs using FastAPI
+
+✔ Integrated PostgreSQL with pgvector for semantic retrieval
+
+✔ Optimized retrieval quality and prompt engineering for better LLM responses
+
+✔ Developed scalable backend architectures for AI applications
+
+✔ Worked with multilingual document processing pipelines
+
+✔ Containerized AI services using Docker
+
+✔ Managed Linux servers and deployment workflows
+
+✔ Built evaluation pipelines for response quality
+
+✔ Integrated vector search into production applications
+
+---
+
+# 🧠 Areas of Interest
+
+- Large Language Models
+- Agentic AI
+- Retrieval-Augmented Generation
+- LLMOps
+- AI Infrastructure
+- Prompt Engineering
+- AI System Design
+- Generative AI
+- MLOps
+- Backend Engineering
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,bash"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+- Transformers
+- Hugging Face
+- OpenCV
+- NumPy
+- Pandas
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+- REST APIs
+- SQLAlchemy
+- Async Python
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+
+</p>
+
+- pgvector
+
+---
+
+## DevOps & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,grafana"/>
+
+</p>
+
+---
+
+# 📌 Featured Expertise
+
+🟢 Production LLM Applications
+
+🟢 Retrieval-Augmented Generation
+
+🟢 AI Backend Development
+
+🟢 REST APIs
+
+🟢 Prompt Engineering
+
+🟢 Vector Databases
+
+🟢 PostgreSQL
+
+🟢 Docker
+
+🟢 Linux
+
+🟢 Semantic Search
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+---
+
+# 💬 Let's Connect
+
+I'm always happy to discuss:
+
+- AI Engineering
+- LLM Applications
+- RAG Systems
+- Production AI
+- Backend Development
+- Open Source
+- Research Collaboration
+
+📧 **amanprajapati22@gmail.com**
+
+---
+
+> *"Building AI systems that are not only intelligent, but reliable, scalable, and production-ready."*
