@@ -155,47 +155,16 @@ Currently, I'm building production AI solutions used by real users in a startup 
 
 # 📌 Featured Expertise
 
-🟢 Production LLM Applications
-
-🟢 Retrieval-Augmented Generation
-
-🟢 AI Backend Development
-
-🟢 REST APIs
-
-🟢 Prompt Engineering
-
-🟢 Vector Databases
-
-🟢 PostgreSQL
-
-🟢 Docker
-
-🟢 Linux
-
-🟢 Semantic Search
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
+- 🟢 Production LLM Applications
+- 🟢 Retrieval-Augmented Generation
+- 🟢 AI Backend Development
+- 🟢 REST APIs
+- 🟢 Prompt Engineering
+- 🟢 Vector Databases
+- 🟢 PostgreSQL
+- 🟢 Docker
+- 🟢 Linux
+- 🟢 Semantic Search
 
 ---
 
