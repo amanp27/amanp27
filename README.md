@@ -108,11 +108,7 @@ Currently, I'm building production AI solutions used by real users in a startup 
 - 🟢 Semantic Search
 
 ---
-
 📧 **amanprajapati22@gmail.com**
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 
 > *"Building AI systems that are not only intelligent, but reliable, scalable, and production-ready."*
